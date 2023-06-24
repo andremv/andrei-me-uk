@@ -1,0 +1,4 @@
+baseURL = 'http://andrei.me.uk/'
+languageCode = 'en-gb'
+title = 'Andrei M | Engingeer'
+theme='LoveIt'
